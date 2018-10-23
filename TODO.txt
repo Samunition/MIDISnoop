@@ -1,0 +1,18 @@
+- [x] Create base GUI
+
+- [x] Create Core Functionality
+    - [x] Load MIDI devices into lists
+    - [x] Create Relay for selected MIDI devices
+    - [x] Add saving function
+    - [x] Add Virtual MIDI port functionality
+
+- [ ] Add an advanced view similar to https://libremusicproduction.com/tools/midisnoop
+
+- [?] Allow bundling with the required DLLs
+
+- [ ] Allow Management of Virtual MIDIs
+    - [ ] Display a list of Virtual MIDIs
+    - [ ] Add/Remove Virtual MIDIs
+    - [ ] Dont throw an exception when the name is already in use, inform the user
+
+- [ ] Customisation of text output
